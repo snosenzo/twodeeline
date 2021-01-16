@@ -1,0 +1,32 @@
+{
+  "name": "twodeeline",
+  "version": "1.0.0",
+  "description": "Different 2D rendering modifications and utilties, showcased (hatch fill, line decorations, point decorations).",
+  "main": "n/a",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snosenzo/twodeeline.git"
+  },
+  "keywords": [
+    "canvas-sketch",
+    "2D",
+    "drawing"
+  ],
+  "author": "Sam Nosenzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snosenzo/twodeeline/issues"
+  },
+  "homepage": "https://github.com/snosenzo/twodeeline#readme",
+  "dependencies": {
+    "@thi.ng/geom-isec": "^0.7.6",
+    "@thi.ng/geom-poly-utils": "^0.3.3",
+    "@thi.ng/vectors": "^4.8.6",
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0",
+    "p5": "^1.2.0"
+  }
+}
